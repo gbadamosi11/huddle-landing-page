@@ -82,7 +82,7 @@ header button{
     border-radius: 5px;
     margin: 1rem 0;
 }
-/* .last{
+.last{
     background-color: hsl(192, 100%, 9%);
     color: hsl(208, 11%, 55%);
     padding: 1.25rem;
@@ -142,7 +142,7 @@ h1, h2, h3, h4{
 .about:hover{
     text-decoration: underline;
     cursor: pointer;
-} */
+}
 
 @media(min-width:768px){
     .section-text{
